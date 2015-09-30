@@ -10,7 +10,7 @@
 	<artifactId>dw-frameworks-jmvc</artifactId>
 	<packaging>jar</packaging>
 	<name>dw-frameworks-jmvc</name>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<description>jmvc 轻量级面向jsp mvc框架</description>
 	
 	<!-- scm配置 -->
